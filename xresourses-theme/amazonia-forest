@@ -1,0 +1,22 @@
+! colorscheme amazonia-forest by simao-ferreira ! 
+
+*.foreground:   #bbd2ac
+*.background:   #141d15
+*.cursorColor:  #bbd2ac
+
+*.color0:       #15421e
+*.color1:       #53b92f
+*.color2:       #78824b
+*.color3:       #b58900
+*.color4:       #39bb94
+*.color5:       #95522a
+*.color6:       #508252
+*.color7:       #4a594d
+*.color8:       #1fa339
+*.color9:       #65e039
+*.color10:      #8d9958
+*.color11:      #e7b722
+*.color12:      #57dd9d
+*.color13:      #b36d43
+*.color14:      #8ec07c
+*.color15:      #bbd2ac
