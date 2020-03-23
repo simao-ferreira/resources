@@ -14,4 +14,6 @@
 ```
 ## Color Palette
 
-This repo contains color schemes for personal use
+This repo contains color schemes for personal use.
+
+### [terminal.sexy](https://terminal.sexy/)
